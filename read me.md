@@ -1,14 +1,15 @@
 # Elite Qualifier
-Simple (or clever and funny?) description
+
+
+
 ## Table of Contents
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
 ## Background
-This is why this application exists.
+Project for Code2College
 ## Install
-These are the steps to setup your local environment to run this
-application.
+To use the application insltal python at https://www.python.org/
 ## Usage
-These are the steps to use the application or interact with it.
+A type of auto correct
 ### Any optional sections
