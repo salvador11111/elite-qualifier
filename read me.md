@@ -1,7 +1,5 @@
 # Elite Qualifier
 
-
-
 ## Table of Contents
 - [Background](#background)
 - [Install](#install)
