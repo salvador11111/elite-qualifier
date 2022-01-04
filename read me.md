@@ -1,4 +1,4 @@
-# Title
+# Elite Qualifier
 Simple (or clever and funny?) description
 ## Table of Contents
 - [Background](#background)
